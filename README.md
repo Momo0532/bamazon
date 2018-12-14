@@ -1,0 +1,2 @@
+# bamazon
+bamazon terminal app
